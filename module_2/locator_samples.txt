@@ -1,5 +1,5 @@
-#name
+input#name
 //input[@name="lastname"]
-[class="form-control third"]
+input[class="form-control third"]
 //input[@fourth_custom_attr="fourth_field"]
 //input[@class="form-control second"]
